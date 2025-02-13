@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_design"
+        tools:context=".MainActivity">
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.408"
+            app:srcCompat="@drawable/__2_health_png_image_thumb" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="243dp"
+            android:layout_height="96dp"
+            android:text="@string/wellnesshub"
+            android:textAlignment="center"
+            android:textColor="#1A1818"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.203" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="183dp"
+            android:layout_height="73dp"
+            android:background="@drawable/btn1"
+            android:text="@string/get_started"
+            android:textColor="#072F52"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:onClick="openineterface2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.764"
+            tools:ignore="OnClick" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</RelativeLayout>
