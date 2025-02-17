@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-137:12
-INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-137:12
-INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-137:12
-INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-137:12
+ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-128:12
+INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:1-128:12
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\cf656d045e430a124527102b061a2de5\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\043bedc51f99c4c17d4d41476815beff\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\a12a5ed3371a140825f77f01bf6d16b4\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Yasiru\
 	xmlns:android
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:5:5-135:19
-INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:5:5-135:19
+ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:5:5-126:19
+INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:5:5-126:19
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\cf656d045e430a124527102b061a2de5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\cf656d045e430a124527102b061a2de5\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\Yasiru\.gradle\caches\8.10.2\transforms\043bedc51f99c4c17d4d41476815beff\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
@@ -96,12 +96,12 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Ya
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:13:9-48
 	android:dataExtractionRules
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.example.assignment.new_page
+activity#com.example.assignment.Delete
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:16:13-37
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:16:13-35
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
@@ -112,84 +112,78 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:21:27-74
-activity#com.example.assignment.Delete
+activity#com.example.assignment.MainActivity4
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:26:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:25:13-35
-activity#com.example.assignment.MainActivity4
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.example.assignment.application3
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:33:9-41:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:35:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:34:13-42
-activity#com.example.assignment.application3
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:34:13-41
+activity#com.example.assignment.Gym
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:42:9-50:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:44:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:43:13-41
-activity#com.example.assignment.Gym
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:43:13-32
+activity#com.example.assignment.CommunityApplication
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:51:9-59:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:53:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:52:13-32
-activity#com.example.assignment.CommunityApplication
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:52:13-49
+activity#com.example.assignment.dashboard
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:60:9-68:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:62:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:61:13-49
-activity#com.example.assignment.dashboard
-ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:69:9-77:20
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:61:13-38
+activity#com.example.assignment.Dashboard
+ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:69:9-71:40
 	android:exported
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:71:13-36
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:71:13-37
 	android:name
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:70:13-38
-activity#com.example.assignment.Dashboard
-ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:78:9-80:40
-	android:exported
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:80:13-37
-	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:79:13-38
 activity#com.example.assignment.Application
+ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:72:9-80:20
+	android:exported
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:74:13-36
+	android:name
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:73:13-40
+activity#com.example.assignment.Home
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:81:9-89:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:83:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:82:13-40
-activity#com.example.assignment.Home
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:82:13-33
+activity#com.example.assignment.Register
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:90:9-98:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:92:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:91:13-33
-activity#com.example.assignment.Register
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:91:13-37
+activity#com.example.assignment.Login
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:99:9-107:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:101:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:100:13-37
-activity#com.example.assignment.Login
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:100:13-34
+activity#com.example.assignment.MainActivity
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:108:9-116:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:110:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:109:13-34
-activity#com.example.assignment.MainActivity
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:109:13-41
+activity#com.example.assignment.Interface2
 ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:117:9-125:20
 	android:exported
 		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:119:13-36
 	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:118:13-41
-activity#com.example.assignment.Interface2
-ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:126:9-134:20
-	android:exported
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:128:13-36
-	android:name
-		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:127:13-39
+		ADDED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml:118:13-39
 uses-sdk
 INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Yasiru\AndroidStudioProjects\Assignment\app\src\main\AndroidManifest.xml

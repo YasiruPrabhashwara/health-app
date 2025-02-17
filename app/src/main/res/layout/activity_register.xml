@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="@drawable/background_design"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Register">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="330dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="707dp"
+        android:text="Sign Up"
+        android:textAlignment="center"
+        android:textColor="#0B0B0B"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/username_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="565dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Username"
+        android:inputType="text"
+        android:padding="18dp"
+        android:textColor="#090909"
+        android:textColorHint="@color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/Email_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="455dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:padding="18dp"
+        android:textColor="#090909"
+        android:textColorHint="@color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="355dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="18dp"
+        android:textColor="#090909"
+        android:textColorHint="@color/black"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/repassword_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="248dp"
+        android:background="@drawable/rounded_corner"
+        android:hint="Re-enter-Password"
+        android:inputType="textPassword"
+        android:padding="18dp"
+        android:textColor="#090909"
+        android:textColorHint="@color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/register_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="116dp"
+        android:background="@drawable/btn1"
+        android:padding="18dp"
+        android:text="Sign Up"
+        android:textSize="20dp" />
+
+</RelativeLayout>

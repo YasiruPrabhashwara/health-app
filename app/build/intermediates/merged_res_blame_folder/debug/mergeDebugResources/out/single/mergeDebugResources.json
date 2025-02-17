@@ -16,10 +16,6 @@
         "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.assignment.app-debug-32:/layout_activity_new_page.xml.flat",
-        "source": "com.example.assignment.app-main-34:/layout/activity_new_page.xml"
-    },
-    {
         "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_water.jpg.flat",
         "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\water.jpg"
     },
@@ -36,12 +32,12 @@
         "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_gym.jpg.flat",
         "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\gym.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_banner_background.xml.flat",
@@ -218,6 +214,10 @@
     {
         "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_new_page.xml.flat",
+        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_new_page.xml"
     },
     {
         "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_sports_gymnastics_24.xml.flat",
