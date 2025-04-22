@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120973851163",
+    "project_id": "wellnesshub-58e16",
+    "storage_bucket": "wellnesshub-58e16.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120973851163:android:d2b88172a8b433a1c9d6be",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEp_9NuFs2m_yeCxzsWhh95Jx_wsdytVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120973851163:android:2df938174e42be21c9d6be",
+        "android_client_info": {
+          "package_name": "example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEp_9NuFs2m_yeCxzsWhh95Jx_wsdytVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

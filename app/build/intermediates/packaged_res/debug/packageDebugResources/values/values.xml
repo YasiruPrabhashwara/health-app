@@ -4,7 +4,13 @@
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Assignment</string>
     <string name="button">Button</string>
+    <string name="gcm_defaultSenderId" translatable="false">120973851163</string>
     <string name="get_started">Get started</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEp_9NuFs2m_yeCxzsWhh95Jx_wsdytVY</string>
+    <string name="google_app_id" translatable="false">1:120973851163:android:d2b88172a8b433a1c9d6be</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEp_9NuFs2m_yeCxzsWhh95Jx_wsdytVY</string>
+    <string name="google_storage_bucket" translatable="false">wellnesshub-58e16.firebasestorage.app</string>
+    <string name="project_id" translatable="false">wellnesshub-58e16</string>
     <string name="wellnesshub">WellnessHub</string>
     <style name="Base.Theme.Assignment" parent="Theme.AppCompat.Light.NoActionBar">
         

@@ -9,7 +9,7 @@
     tools:context=".Home"
     android:background="@drawable/background_design">
 
-    <!-- Scrollable Content -->
+
     <ScrollView
         android:id="@+id/scrollViewContent"
         android:layout_width="0dp"

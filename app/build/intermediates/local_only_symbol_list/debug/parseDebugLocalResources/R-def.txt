@@ -96,7 +96,13 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
 string button
+string gcm_defaultSenderId
 string get_started
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
 string wellnesshub
 style Base.Theme.Assignment
 style Theme.Assignment

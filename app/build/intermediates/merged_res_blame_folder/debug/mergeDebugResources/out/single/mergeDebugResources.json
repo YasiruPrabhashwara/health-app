@@ -1,246 +1,238 @@
 [
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_icon_accpunt_circle.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\icon_accpunt_circle.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_r4dgsdp6eruexko5kux6uf_1200_80.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/r4dgsdp6eruexko5kux6uf_1200_80.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_linkedin_logo_initials.png.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\linkedin_logo_initials.png"
+        "merged": "com.example.assignment.app-debug-41:/drawable_water.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/water.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_people_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_people_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_application3.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_application3.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_water.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\water.jpg"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_checks.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/checks.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_dashboard.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_dashboard.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_home.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_home.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_gym.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\gym.jpg"
+        "merged": "com.example.assignment.app-debug-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.assignment.app-main-43:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_banner_background.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\banner_background.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_admin_panel_settings_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_admin_panel_settings_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_background_design.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\background_design.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.assignment.app-debug-41:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_login.xml"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_delete.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_delete.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_interface2.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_interface2.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_app_settings_alt_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_app_settings_alt_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_health_and_safety_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_health_and_safety_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_home.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_home.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_image_button.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\image_button.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_back.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/back.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_home_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_app_settings_alt_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_app_settings_alt_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable___2_health_png_image_thumb.png.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/__2_health_png_image_thumb.png"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_home_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_home_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_background_design.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/background_design.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_rounded_corner.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\rounded_corner.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_group_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_group_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_doctors_medical_gear.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\doctors_medical_gear.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_istockphoto_870974102_612x612.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/istockphoto_870974102_612x612.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_delete.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_delete.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_btn1.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/btn1.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_format_align_justify_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_format_align_justify_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_group_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_group_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_health_and_safety_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_health_and_safety_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_r4dgsdp6eruexko5kux6uf_1200_80.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\r4dgsdp6eruexko5kux6uf_1200_80.jpg"
+        "merged": "com.example.assignment.app-debug-41:/menu_button_new_menue.xml.flat",
+        "source": "com.example.assignment.app-main-43:/menu/button_new_menue.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_application3.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_application3.xml"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable__ddoc8gv9fyupexglypqqt_1200_80.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\_ddoc8gv9fyupexglypqqt_1200_80.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_add_to_home_screen_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_add_to_home_screen_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\xml\\backup_rules.xml"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_btn1.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\btn1.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_gym.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/gym.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_gettyimages_1178747513_612x612.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\gettyimages_1178747513_612x612.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_doctors_medical_gear.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/doctors_medical_gear.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_checks.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\checks.jpg"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_application.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_application.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_interface2.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_interface2.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.assignment.app-debug-41:/drawable_gettyimages_1178747513_612x612.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/gettyimages_1178747513_612x612.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_sports_gymnastics_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_sports_gymnastics_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\menu_button_new_menue.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\menu\\button_new_menue.xml"
+        "merged": "com.example.assignment.app-debug-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.assignment.app-main-43:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable__60_f_300245953_svih1dyjbw4v2t92ehdotww4liqmghmy.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\_60_f_300245953_svih1dyjbw4v2t92ehdotww4liqmghmy.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_linkedin_logo_initials.png.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/linkedin_logo_initials.png"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_homebtn_background.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\homebtn_background.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_account_circle_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_main.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_log.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/log.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.assignment.app-debug-41:/drawable_homebtn_background.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/homebtn_background.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_community_application.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_community_application.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_setting.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/setting.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_application.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_application.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_format_align_justify_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_format_align_justify_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_register.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_banner_background.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/banner_background.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.assignment.app-debug-41:/drawable_image_button.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/image_button.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_istockphoto_870974102_612x612.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\istockphoto_870974102_612x612.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_back_2.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/back_2.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable___2_health_png_image_thumb.png.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\__2_health_png_image_thumb.png"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_admin_panel_settings_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_admin_panel_settings_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_foods.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/foods.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_add_to_home_screen_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_add_to_home_screen_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_baseline_people_24.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/baseline_people_24.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_community_application.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_community_application.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_account_circle_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_account_circle_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable__ddoc8gv9fyupexglypqqt_1200_80.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/_ddoc8gv9fyupexglypqqt_1200_80.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_log.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\log.jpg"
+        "merged": "com.example.assignment.app-debug-41:/drawable_icon_accpunt_circle.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/icon_accpunt_circle.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable__60_f_300245953_svih1dyjbw4v2t92ehdotww4liqmghmy.jpg.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/_60_f_300245953_svih1dyjbw4v2t92ehdotww4liqmghmy.jpg"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\layout_activity_new_page.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\layout\\activity_new_page.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_baseline_sports_gymnastics_24.xml.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\baseline_sports_gymnastics_24.xml"
+        "merged": "com.example.assignment.app-debug-41:/drawable_rounded_corner.xml.flat",
+        "source": "com.example.assignment.app-main-43:/drawable/rounded_corner.xml"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_back.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\back.jpg"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_back_2.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\back_2.jpg"
+        "merged": "com.example.assignment.app-debug-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignment.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_foods.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\foods.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
-    },
-    {
-        "merged": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-debug-32:\\drawable_setting.jpg.flat",
-        "source": "C:\\Users\\Yasiru\\.gradle\\daemon\\8.10.2\\com.example.assignment.app-main-34:\\drawable\\setting.jpg"
+        "merged": "com.example.assignment.app-debug-41:/layout_activity_login.xml.flat",
+        "source": "com.example.assignment.app-main-43:/layout/activity_login.xml"
     }
 ]
